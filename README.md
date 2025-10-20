@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Vardaan Gaur
 
-<!--
-**Vardaangaur/Vardaangaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 About Me
+- 🔹 Computer Science Student
+- 🔹 Full Stack Developer (MERN)
+- 🔹 Passionate about learning new technologies
 
-Here are some ideas to get you started:
+## 🌱 Skills
+- **Frontend:** React, TailwindCSS, HTML, CSS
+- **Backend:** Node.js, Express, MongoDB
+- **Languages:** JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: vardaan@example.com
+- LinkedIn: [Vardaan Gaur](https://www.linkedin.com/in/your-link)
+- GitHub: [Vardaan Gaur](https://github.com/your-username)
+
+## 📊 GitHub Stats
+![Vardaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
